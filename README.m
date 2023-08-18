@@ -1,0 +1,9 @@
+# ODGJ CRACK FB
+$ pkg update && pkg upgrade
+$ pkg instal python git
+$ pip bs4 berjangka
+$ pip instal kaya
+$ git clone https://github.com/RKIHSTORE/ODG/Crark-Fb
+$ cd Crack-Fb
+$ ls
+$python crackfb.py
